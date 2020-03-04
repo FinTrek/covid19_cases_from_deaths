@@ -27,7 +27,7 @@ ui <- fluidPage(
     div(
         HTML("<p style='max-width:95%;'><strong>Authors</strong>: 
           Thibaut Jombart, Sam Abbott, Amy Gimma, Kevin Zandvoort, Sam Clifford,
-          Christopher Jarvis, Timothy Russel, Sebastian Funk, Hamrish Gibbs, 
+          Christopher Jarvis, Timothy Russell, Sebastian Funk, Hamrish Gibbs, 
           Rosalind Eggo, Adam Kucharski, 
           <a href='https://cmmid.github.io/groups/ncov-group'>
           <i>CMMID COVID-19 Working Group*</i></a>,
